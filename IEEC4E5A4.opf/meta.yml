@@ -1,0 +1,135 @@
+id: IEEC4E5A4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:30:43.925635'
+last_modified: '2022-06-17T11:30:43.925640'
+parser: null
+source_metadata:
+  title: Chokling Tersar Series
+  language: nl
+  description: 'Texts related to the Chokling Tersar (mchog gling gter gsar), the
+    New Treasures of Chokgyur Lingpa (1829–1870):'
+  volume:
+    fEFCE:
+      title: 'Advice on Nonsectarianism (from Radiant Sunlight of the Victorious Ones''
+        Teachings: A Brief, First-Hand Account of the Liberating Life-Story of the
+        Great Emanated Treasure Revealer)'
+      base_file: fEFCE.txt
+      order: 1
+      parent: Advice
+    f821E:
+      title: Pithy Advice on Checking One's Progress on the Path
+      base_file: f821E.txt
+      order: 2
+      parent: Advice
+    f4281:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      base_file: f4281.txt
+      order: 3
+      parent: Aspiration Prayers
+    f567B:
+      title: 'Radiant Sunlight of the Victors’ Teachings: A Brief, First-Hand Account
+        of the Liberating Life-Story of the Great Emanated Treasure Revealer'
+      base_file: f567B.txt
+      order: 4
+      parent: Biography
+    fB8D8:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      base_file: fB8D8.txt
+      order: 5
+      parent: Biography
+    f7D46:
+      title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+        of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+      base_file: f7D46.txt
+      order: 6
+      parent: Chöd
+    f190C:
+      title: The Ornament of Padmasambhava’s Enlightened Vision
+      base_file: f190C.txt
+      order: 7
+      parent: Commentaries
+    fEF51:
+      title: 'The Vajra Words Unveiled: A Commentary on the Düsum Sangyé Prayer to
+        the Guru'
+      base_file: fEF51.txt
+      order: 8
+      parent: Commentaries
+    f8054:
+      title: The Lament of Rudra
+      base_file: f8054.txt
+      order: 9
+      parent: Confession
+    fDDB8:
+      title: The Unifying Practice of the Prayer
+      base_file: fDDB8.txt
+      order: 10
+      parent: Guru Yoga
+    fE286:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      base_file: fE286.txt
+      order: 11
+      parent: Lineage Prayers
+    f3362:
+      title: The Prayer Which Removes All Obstacles from the Path (Barché Lamsel)
+      base_file: f3362.txt
+      order: 12
+      parent: Prayers
+    f39B4:
+      title: The Prayer in Six Vajra Lines
+      base_file: f39B4.txt
+      order: 13
+      parent: Prayers
+    f2953:
+      title: 'The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma) from The Guru’s Heart Practice: The Wish-Fulfilling Jewel'
+      base_file: f2953.txt
+      order: 14
+      parent: Prayers
+    f2714:
+      title: The Testament Prayer to Orgyen Rinpoche
+      base_file: f2714.txt
+      order: 15
+      parent: Prayers
+    fEEE3:
+      title: The Single-Page Practice of the Guru of Great Bliss
+      base_file: fEEE3.txt
+      order: 16
+      parent: Sādhanas
+    f6DBD:
+      title: Concise Daily Practice of Vajrasattva
+      base_file: f6DBD.txt
+      order: 17
+      parent: Sādhanas
+    fCEF4:
+      title: Extremely Secret Unelaborate Daily Sādhana for the Heart Practice of
+        the Great Demon-Slayer
+      base_file: fCEF4.txt
+      order: 18
+      parent: Sādhanas
+    fCBA7:
+      title: White and Red Sur Offerings That Are Very Easy to Apply
+      base_file: fCBA7.txt
+      order: 19
+      parent: Sur Offering
+    fC60A:
+      title: Vajrakīla Tsok Prayer from Sangtik Korsum
+      base_file: fC60A.txt
+      order: 20
+      parent: Tsok
+    f2867:
+      title: 'Cloud-Banks of the Two Accumulations: A Feast Offering Including the
+        Six Vajra Lines Prayer to Be Practiced with Any Guru Sādhana'
+      base_file: f2867.txt
+      order: 21
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
